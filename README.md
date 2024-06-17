@@ -1,3 +1,44 @@
+# Goodbye
+
+## ⚠️ This project is **officially discontinued.**
+
+I started working on this as a depressed 13yo kid, not really knowing what I was doing, learned a lot about coding, about discord and lots of other shit in general.<br />
+Got really hyped-up after compiling the first working version of Discord Oxygen, adding all the scripts from https://github.com/Discord-Oxygen/Discord-Console-hacks as modules.<br />
+Ended up overestimating the amount of work that needs to be done which ended up taking a toll on my (at that point already shitty) mental health.<br />
+Being faced with surviving out there, living on the streets as a kid proved to be a real challenge and gave it the rest, which is why I went AWOL.
+
+Sorry for not meeting everyone's (including my own) expectations while simultaneously collecting donations, I hope you don't feel scammed<br />
+At least your donations helped a homeless girl getting through another day...
+
+Thanks to everyone who was part of this community, farewell~
+
+_hxr404_
+
+## Public Archive
+
+Least I can do is publish fragments (all that remains) of the source code<br />
+Check it out here: https://github.com/Discord-Oxygen/Discord-Oxygen-source <br />
+Licensed CC0, in the public domain, no copyright, do whatever you want with it, hope it might be useful.
+
+## Moving on
+
+All accounts under this identity will be permanently deleted, after just ignoring it for so long I finally decided to come clean with my past, so thats it ig.
+The community spaces will be deleted too, there's no sense in keeping them around if there's no moderation nor active life whatsoever.
+
+I also really, really recommend to y'all to leave behind proprietary platforms and move on to something free and open source. (Consider the network effect too, look out for open standards such as matrix and activitypub)<br />
+Your time will be much more better invested in actual community projects instead of just hacking around some unethical corpo's money grabbing scheme.
+
+---
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
 <h1>Discord Oxygen</h1>
 <img alt="Discord Oxygen Logo" src="https://user-images.githubusercontent.com/55095883/136019584-872c07a9-da19-41c0-b701-6d42f33afd43.png" />
 <br />
